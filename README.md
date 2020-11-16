@@ -18,13 +18,13 @@ G2i's Code Challenge implementation of a Trivia app in React using advanced tech
 
 Check [G2i Code Challenge](https://gist.github.com/severnsc/e09f4f8742b7dd91af9c422d6f210a57) for all the details about requirements and wireframes.
 
-![Home screenshot](/src/assets/images/home-screenshot.png?raw=true "Home Screenshot")
+![Home screenshot](./src/assets/images/home-screenshot.png?raw=true "Home Screenshot")
 
 
-![Quiz screenshot](/src/assets/images/quiz-screenshot.png?raw=true "Quiz Screenshot")
+![Quiz screenshot](./src/assets/images/quiz-screenshot.png?raw=true "Quiz Screenshot")
 
 
-![Results screenshot](/src/assets/images/results-screenshot.png?raw=true "Results Screenshot")
+![Results screenshot](./src/assets/images/results-screenshot.png?raw=true "Results Screenshot")
 
 
 
