@@ -2,7 +2,6 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { Typography, Card, CardContent } from "@material-ui/core";
 import { Error as Icon } from "@material-ui/icons";
-import PropTypes from "prop-types";
 
 const useStyles = makeStyles((theme) => ({
   root: {
